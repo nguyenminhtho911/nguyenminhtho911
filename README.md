@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+## I'm Nguyen Minh Tho
+### 🛠 My knowledge
+![alt](https://camo.githubusercontent.com/149662647584146f2b62ec0f656c023455f1edfcff7094e185e9474858e88b23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![alt](http://~)
+![alt](http://~)
+![alt](http://~)
+
+
+
 
 <!--
 **nguyenminhtho911/nguyenminhtho911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
